@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZTEST_MSG</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>test msg</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTEST_MSG</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Input Statistical Internal Order for Acct Assmt Cat&quot;S&quot;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZTEST_MSG</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>This is not an example of long text</TEXT>
+    </T100>
+   </T100>
+   <I18N_LANGS>
+    <LANGU>1</LANGU>
+    <LANGU>F</LANGU>
+    <LANGU>J</LANGU>
+    <LANGU>N</LANGU>
+    <LANGU>P</LANGU>
+    <LANGU>R</LANGU>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <T100T>
+    <T100T>
+     <SPRSL>1</SPRSL>
+     <ARBGB>ZTEST_MSG</ARBGB>
+     <STEXT>test msg</STEXT>
+    </T100T>
+    <T100T>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZTEST_MSG</ARBGB>
+     <STEXT>test msg</STEXT>
+    </T100T>
+    <T100T>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZTEST_MSG</ARBGB>
+     <STEXT>test msg</STEXT>
+    </T100T>
+    <T100T>
+     <SPRSL>N</SPRSL>
+     <ARBGB>ZTEST_MSG</ARBGB>
+     <STEXT>test msg</STEXT>
+    </T100T>
+    <T100T>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZTEST_MSG</ARBGB>
+     <STEXT>test msg</STEXT>
+    </T100T>
+    <T100T>
+     <SPRSL>R</SPRSL>
+     <ARBGB>ZTEST_MSG</ARBGB>
+     <STEXT>test msg</STEXT>
+    </T100T>
+    <T100T>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZTEST_MSG</ARBGB>
+     <STEXT>test msg</STEXT>
+    </T100T>
+   </T100T>
+   <T100_TEXTS>
+    <item>
+     <SPRSL>1</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>This is example of long text message</TEXT>
+    </item>
+    <item>
+     <SPRSL>1</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>This is not an example of long text</TEXT>
+    </item>
+    <item>
+     <SPRSL>F</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>This is example of long text message</TEXT>
+    </item>
+    <item>
+     <SPRSL>F</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>This is not an example of long text</TEXT>
+    </item>
+    <item>
+     <SPRSL>J</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>This is example of long text message</TEXT>
+    </item>
+    <item>
+     <SPRSL>J</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>This is not an example of long text</TEXT>
+    </item>
+    <item>
+     <SPRSL>N</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>This is example of long text message</TEXT>
+    </item>
+    <item>
+     <SPRSL>N</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>This is not an example of long text</TEXT>
+    </item>
+    <item>
+     <SPRSL>P</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>This is example of long text message</TEXT>
+    </item>
+    <item>
+     <SPRSL>P</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>This is not an example of long text</TEXT>
+    </item>
+    <item>
+     <SPRSL>R</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>This is example of long text message</TEXT>
+    </item>
+    <item>
+     <SPRSL>R</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>This is not an example of long text</TEXT>
+    </item>
+    <item>
+     <SPRSL>S</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>This is example of long text message</TEXT>
+    </item>
+    <item>
+     <SPRSL>S</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>This is not an example of long text</TEXT>
+    </item>
+   </T100_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
